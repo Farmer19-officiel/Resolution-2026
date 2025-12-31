@@ -28,4 +28,5 @@ Un mini-site local, léger et élégant pour monitorer ses objectifs annuels ave
 - Google Fonts (Plus Jakarta Sans)
 
 Développé pour une année 2026 sous le signe de la performance. 🚀
--# Généré par Gemini 3 Flash
+
+### Généré par Gemini 3 Flash
